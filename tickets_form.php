@@ -1,5 +1,5 @@
 <?php
-
+// Bretts assignment I plagiarized :)
 if ($_GET) {
 
     $name    = $_GET['customer'];
